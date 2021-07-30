@@ -215,11 +215,26 @@ We use GitHub Issues as the official bug tracker for the Argon Design System Rea
 
 ### Social Media
 
-Twitter: <https://twitter.com/CreativeTim?ref=creativetim>
+Twitter: <https://twitter.com/NadaAlabdullah4>
 
-Facebook: <https://www.facebook.com/CreativeTim?ref=creativetim>
+Facebook: <https://www.facebook.com/nada.alabdullah.58>
 
-Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
+LinkedIn: <https://www.linkedin.com/in/nada-al-abdullah-a22120213>
 
-Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
+Instagram: <https://www.instagram.com/nada.alabdullah.58/>
+
+My Website(Netlify) : <github.com/Nada0795/Nada-Portfolio.>
+
+<hr><hr>
+
+Number and name of feature: Create My Portfolio
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 6:00pm
+
+Finish time: 8:00pm
+
+Actual time needed to complete: 4 hours
+
 
